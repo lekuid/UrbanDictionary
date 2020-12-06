@@ -1,2 +1,2 @@
-# UrbanDictinary
- A simple ktinker program that uses an unofficial urbandictionary API to return meanings
+# UrbanDictionary
+ A simple ktinker program that uses an unofficial UrbanDictionary API to return meanings
