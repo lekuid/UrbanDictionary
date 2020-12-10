@@ -48,7 +48,7 @@ word.place(relx=0.1, rely=0.05, relwidth=0.8, relheight=0.05)
 submit = tk.Button(main_frame, text='Enlighten Me', bg='#A4303F', font=20, command=lambda: web_request(word.get()))
 submit.place(relx=0.35, rely=0.11, relheight=0.03, relwidth=0.3)
 
-returned = tk.Label(base, bg='#ffeccc', wraplengt=200)
+returned = tk.Label(base, bg='#ffeccc', font=40, wraplengt=300)
 returned.place(relx=0.413, rely=0.02, relheight=0.96, relwidth=0.57)
 
 
